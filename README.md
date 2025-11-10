@@ -13,6 +13,4 @@ math: additiion,subtraction,multiplication,division,modulou,factorial,power,root
 how to compile : gcc calculator.c -o calculator -lm
 
 
-how to run: ./calculator
-
-URL: https://github.com/piyush07440/coc-project-calculator
+how to run: calculator
